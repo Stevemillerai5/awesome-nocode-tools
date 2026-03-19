@@ -349,6 +349,7 @@ A curated collection of 100+ **Awesome NoCode and LowCode tools, platforms, and 
 
 - [Bubble](https://bubble.io/) – Build full-featured web apps visually.
 - [Stacker](https://stacker.app/) – Turn Airtable/Sheets into functional apps.
+- [Suriya](https://suriya.ai/) – AI-powered app builder for Thai SMEs. Create loyalty apps, booking systems, and customer tools in 5 minutes without coding.
 - [Convertigo](https://convertigo.com/) – Enterprise low-code app development.
 - [OnOut](https://tools.onout.org/) – One-click builder for DApps.
 - [SpreadsheetWeb](https://spreadsheetweb.com/) – Convert Excel into web applications.
