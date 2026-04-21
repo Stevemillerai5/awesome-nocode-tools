@@ -377,6 +377,7 @@ A curated collection of 100+ **Awesome NoCode and LowCode tools, platforms, and 
 - [Grapedrop](https://grapedrop.com/) – Visual landing page builder.
 - [Universe](https://onuniverse.com/) – Build mobile-first sites from your phone.
 - [Without Code](https://wocode.com/) – Website builder for marketers.
+- [NoCodeVista](https://nocodevista.com/) – No-code website builder tool for creating stunning sites visually.
 - [Weld](https://weld.io/) – Create animated web content without coding.
 
 ## <h2 id="uncategorized">Uncategorized 📌</h2>
