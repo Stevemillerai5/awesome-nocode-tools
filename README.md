@@ -318,6 +318,7 @@ A curated collection of 100+ **Awesome NoCode and LowCode tools, platforms, and 
 - [Descript](https://descript.com) – Edit video/audio by editing text.
 - [Runway](https://runwayml.com) – AI video editing suite for automated content.
 - [Veed](https://veed.io) – Collaborative video editor with templates and subtitles.
+- [videos.social](https://videos.social/?utm_source=stevemillerai5-awesome-nocode-tools&utm_medium=directory&utm_campaign=listing-wave-d) – Turn blogs, PDFs, and prompts into editable faceless videos.
 - [Kapwing](https://kapwing.com) – All-in-one video editor for social content.
 - [InVideo](https://invideo.io) – Turn text into professional videos with templates.
 
