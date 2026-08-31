@@ -369,6 +369,7 @@ A curated collection of 100+ **Awesome NoCode and LowCode tools, platforms, and 
 - [Weebly](https://weebly.com/) – Simple builder for basic sites and stores.
 - [Versoly](https://versoly.com/) – SaaS marketing sites with templates.
 - [Strikingly](https://strikingly.com/) – Launch single-page sites quickly.
+- [Ibis](https://cartonpliant.github.io/ibis/) – Browser one-page offer sheet for independents. Free with watermark, Pro €9.
 - [Udesly](https://udesly.com/) – Convert Webflow designs to WordPress and Shopify.
 - [Bookmark](https://bookmark.com/) – AI-powered website builder.
 - [Memberspace](https://memberspace.com/) – Add memberships and paywalls.
