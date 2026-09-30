@@ -319,6 +319,7 @@ A curated collection of 100+ **Awesome NoCode and LowCode tools, platforms, and 
 - [Runway](https://runwayml.com) – AI video editing suite for automated content.
 - [Veed](https://veed.io) – Collaborative video editor with templates and subtitles.
 - [Kapwing](https://kapwing.com) – All-in-one video editor for social content.
+- [ReelWorkshop](https://reelworkshop.com) – Browser compilation maker: import/arrange/trim/preview free; export vertical 9:16 H.264 on Starter.
 - [InVideo](https://invideo.io) – Turn text into professional videos with templates.
 
 ## <h2 id="visual-programming">Visual Programming 🖼️</h2>
