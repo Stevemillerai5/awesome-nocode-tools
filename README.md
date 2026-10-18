@@ -378,6 +378,7 @@ A curated collection of 100+ **Awesome NoCode and LowCode tools, platforms, and 
 - [Universe](https://onuniverse.com/) – Build mobile-first sites from your phone.
 - [Without Code](https://wocode.com/) – Website builder for marketers.
 - [Weld](https://weld.io/) – Create animated web content without coding.
+- [Helmpages](https://helmpages.com/) – AI website builder for independent professionals; sites are built and kept up to date by sending a message.
 
 ## <h2 id="uncategorized">Uncategorized 📌</h2>
 
