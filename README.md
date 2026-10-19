@@ -359,25 +359,26 @@ A curated collection of 100+ **Awesome NoCode and LowCode tools, platforms, and 
 
 ## <h2 id="websites">Websites 🖥️</h2>
 
-- [Webflow](https://webflow.com/) – Advanced visual web builder with CMS.
-- [Framer](https://framer.com/) – Design-first website builder with smooth animations.
 - [Appsmith](https://appsmith.com/) – Build admin panels and internal tools fast.
-- [Pory](https://pory.io/) – Turn Airtable data into portals and web apps.
-- [Tilda](https://tilda.cc/) – Design-forward websites with no code.
-- [Wix](https://wix.com/) – All-in-one website builder with ecommerce and SEO.
-- [Squarespace](https://squarespace.com/) – Elegant templates for creatives.
-- [Weebly](https://weebly.com/) – Simple builder for basic sites and stores.
-- [Versoly](https://versoly.com/) – SaaS marketing sites with templates.
-- [Strikingly](https://strikingly.com/) – Launch single-page sites quickly.
-- [Udesly](https://udesly.com/) – Convert Webflow designs to WordPress and Shopify.
 - [Bookmark](https://bookmark.com/) – AI-powered website builder.
-- [Memberspace](https://memberspace.com/) – Add memberships and paywalls.
-- [Webstudio](https://webstudio.is/) – Open-source alternative to Webflow.
-- [Sheet2Site](https://sheet2site.com/) – Dynamic sites from Google Sheets.
+- [Framer](https://framer.com/) – Design-first website builder with smooth animations.
 - [Grapedrop](https://grapedrop.com/) – Visual landing page builder.
+- [Icybiz](https://icybiz.com/) – Visual no-code website builder with free hosting at a stable address.
+- [Memberspace](https://memberspace.com/) – Add memberships and paywalls.
+- [Pory](https://pory.io/) – Turn Airtable data into portals and web apps.
+- [Sheet2Site](https://sheet2site.com/) – Dynamic sites from Google Sheets.
+- [Squarespace](https://squarespace.com/) – Elegant templates for creatives.
+- [Strikingly](https://strikingly.com/) – Launch single-page sites quickly.
+- [Tilda](https://tilda.cc/) – Design-forward websites with no code.
+- [Udesly](https://udesly.com/) – Convert Webflow designs to WordPress and Shopify.
 - [Universe](https://onuniverse.com/) – Build mobile-first sites from your phone.
-- [Without Code](https://wocode.com/) – Website builder for marketers.
+- [Versoly](https://versoly.com/) – SaaS marketing sites with templates.
+- [Webflow](https://webflow.com/) – Advanced visual web builder with CMS.
+- [Webstudio](https://webstudio.is/) – Open-source alternative to Webflow.
+- [Weebly](https://weebly.com/) – Simple builder for basic sites and stores.
 - [Weld](https://weld.io/) – Create animated web content without coding.
+- [Without Code](https://wocode.com/) – Website builder for marketers.
+- [Wix](https://wix.com/) – All-in-one website builder with ecommerce and SEO.
 
 ## <h2 id="uncategorized">Uncategorized 📌</h2>
 
