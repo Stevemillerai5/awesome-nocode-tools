@@ -347,6 +347,7 @@ A curated collection of 100+ **Awesome NoCode and LowCode tools, platforms, and 
 
 ## <h2 id="web-apps">Web Apps 🧰</h2>
 
+- [AppWizzy](https://appwizzy.com/) – Build and edit web apps with AI, runtime templates, and dedicated cloud development VMs.
 - [Bubble](https://bubble.io/) – Build full-featured web apps visually.
 - [Stacker](https://stacker.app/) – Turn Airtable/Sheets into functional apps.
 - [Convertigo](https://convertigo.com/) – Enterprise low-code app development.
